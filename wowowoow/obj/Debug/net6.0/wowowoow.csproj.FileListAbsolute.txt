@@ -1,0 +1,17 @@
+C:\Users\я\source\repos\wowowoow\wowowoow\bin\Debug\net6.0\wowowoow.exe
+C:\Users\я\source\repos\wowowoow\wowowoow\bin\Debug\net6.0\wowowoow.deps.json
+C:\Users\я\source\repos\wowowoow\wowowoow\bin\Debug\net6.0\wowowoow.runtimeconfig.json
+C:\Users\я\source\repos\wowowoow\wowowoow\bin\Debug\net6.0\wowowoow.dll
+C:\Users\я\source\repos\wowowoow\wowowoow\bin\Debug\net6.0\wowowoow.pdb
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.AssemblyInfoInputs.cache
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.AssemblyInfo.cs
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.dll
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\refint\wowowoow.dll
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.pdb
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.genruntimeconfig.cache
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\ref\wowowoow.dll
+C:\Users\я\source\repos\wowowoow\wowowoow\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\я\source\repos\wowowoow\wowowoow\obj\Debug\net6.0\wowowoow.csproj.CopyComplete
